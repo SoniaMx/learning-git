@@ -22,3 +22,5 @@ new_txt = txt.capitalize()
 print(new_txt)
 
 print("Specjalne pozdrowienia dla Mentora")
+
+print("Specjalne pozdrowienia dla Mentora nr 2 - niepotrzebnie zrobiłam merge bo było ok już przy pierwszej wersji")
