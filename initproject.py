@@ -20,3 +20,5 @@ for i in range (1, 40):
 txt = "python is not that easy"
 new_txt = txt.capitalize()
 print(new_txt)
+
+print("Specjalne pozdrowienia dla Mentora")
