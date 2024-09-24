@@ -10,3 +10,5 @@ for shop in shopping_dict:
 
 sum = len(shopping_list)
 print("W sumie kupuję", sum, "produktów")
+
+print("koniec zadania")
