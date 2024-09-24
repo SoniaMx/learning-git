@@ -12,3 +12,7 @@ sum = len(shopping_list)
 print("W sumie kupuję", sum, "produktów")
 
 print("koniec zadania")
+
+for i in range (1, 40):
+    if i % 2 != 0:
+        print(i)
