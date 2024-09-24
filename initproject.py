@@ -7,3 +7,6 @@ shopping_dict = {
 for shop in shopping_dict:
     items = [item.capitalize() for item in shopping_dict[shop]]
     print(f"Idę do {shop.capitalize()}, kupuję tam: {', '.join(items)}.")
+
+sum = len(shopping_list)
+print("W sumie kupuję", sum, "produktów")
